@@ -20,6 +20,7 @@ public final class BelisMetaClassConstants {
     public static final String MC_VERANLASSUNGSART = "veranlassungsart";
     public static final String MC_ARBEITSAUFTRAG = "arbeitsauftrag";
     public static final String MC_ARBEITSPROTOKOLL = "arbeitsprotokoll";
+    public static final String MC_ARBEITSPROTOKOLLAKTION = "arbeitsprotokollaktion";
     public static final String MC_ARBEITSPROTOKOLLSTATUS = "arbeitsprotokollstatus";
     public static final String MC_INFOBAUSTEIN = "infobaustein";
     public static final String MC_INFOBAUSTEIN_TEMPLATE = "infobaustein_template";
