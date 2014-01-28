@@ -16,6 +16,8 @@ public final class BelisMetaClassConstants {
 
     //~ Static fields/initializers ---------------------------------------------
 
+    public static final String DOMAIN = "BELIS2";
+
     public static final String MC_VERANLASSUNG = "veranlassung";
     public static final String MC_VERANLASSUNGSART = "veranlassungsart";
     public static final String MC_ARBEITSAUFTRAG = "arbeitsauftrag";
