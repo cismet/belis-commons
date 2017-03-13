@@ -38,6 +38,7 @@ public final class ArbeitsauftragPropertyConstants extends PropertyConstants {
     public static final String PROP__NUMMER = "nummer";
     public static final String PROP__N_PROTOKOLLE = "n_protokolle";
     public static final String PROP__N_VERANLASSUNGEN = "n_veranlassungen";
+    public static final String PROP__ZUGEWIESEN_AN = "zugewiesen_an";
 
     //~ Constructors -----------------------------------------------------------
 
