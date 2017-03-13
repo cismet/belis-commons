@@ -27,6 +27,13 @@ public final class BelisMetaClassConstants {
     public static final String MC_INFOBAUSTEIN = "infobaustein";
     public static final String MC_INFOBAUSTEIN_TEMPLATE = "infobaustein_template";
 
+    public static final String MC_ABZWEIGDOSE = "abzweigdose";
+    public static final String MC_LEITUNG = "leitung";
+    public static final String MC_TDTA_LEUCHTEN = "tdta_leuchten";
+    public static final String MC_MAUERLASCHE = "mauerlasche";
+    public static final String MC_SCHALTSTELLE = "schaltstelle";
+    public static final String MC_TDTA_STANDORT_MAST = "tdta_standort_mast";
+
     //~ Constructors -----------------------------------------------------------
 
     /**
