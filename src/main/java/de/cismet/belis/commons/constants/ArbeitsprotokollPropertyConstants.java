@@ -47,6 +47,7 @@ public final class ArbeitsprotokollPropertyConstants extends PropertyConstants {
     public static final String PROP__FK_STATUS = "fk_status";
     public static final String PROP__FK_ARBEITSAUFTRAG = "fk_arbeitsauftrag";
     public static final String PROP__PROTOKOLLNUMMER = "protokollnummer";
+    public static final String PROP__VERANLASSUNGSNUMMER = "veranlassungsnummer";
 
     //~ Constructors -----------------------------------------------------------
 
