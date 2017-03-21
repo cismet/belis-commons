@@ -33,6 +33,7 @@ public final class BelisMetaClassConstants {
     public static final String MC_MAUERLASCHE = "mauerlasche";
     public static final String MC_SCHALTSTELLE = "schaltstelle";
     public static final String MC_TDTA_STANDORT_MAST = "tdta_standort_mast";
+    public static final String MC_TEAM = "team";
 
     //~ Constructors -----------------------------------------------------------
 
