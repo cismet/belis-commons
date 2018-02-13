@@ -19,7 +19,7 @@
         <names.belis-commons>BelIS Commons</names.belis-commons>
     </properties>
     
-    <name>${names.belis-commons}</name>
+    <name>${names.belis-commons} [${project.version}]</name>
     <description>!!! description pending !!!</description>
 
     <scm>
